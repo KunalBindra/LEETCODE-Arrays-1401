@@ -1,8 +1,5 @@
 # LEETCODE-Arrays-1401
 **String Matching**
-
-This Java class provides a solution to the "String Matching" problem.
-
 **Problem Description:**
 
 Given an array of strings `words`, return a list of strings that are substrings of another string in the array.
